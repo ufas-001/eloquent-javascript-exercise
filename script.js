@@ -243,4 +243,4 @@ const arrayToList = (arr) => {
     return list
 }
 let getArrayList = arrayToList([1,2,3,4,5])
-console.log(getArrayList)
+//console.log(getArrayList)
